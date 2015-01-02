@@ -1,0 +1,24 @@
+{
+  "name": "elasticsearch-email",
+  "version": "1.0.0",
+  "description": "Elasticsearch For Beginners: Indexing your GMail inbox =======================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meandavejustice/elasticsearch-gmail.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meandavejustice/elasticsearch-gmail/issues"
+  },
+  "homepage": "https://github.com/meandavejustice/elasticsearch-gmail",
+  "dependencies": {
+    "mbox-stream": "^1.0.0",
+    "request": "^2.51.0",
+    "streaming-json-stringify": "^2.0.0"
+  }
+}
